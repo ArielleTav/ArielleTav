@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou a Arielle Tavares 👋  
 
-<!--
-**ArielleTav/ArielleTav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia de Software** e estou no início da minha jornada na programação.  
+Atualmente estudo **C e Python**, e faço cursos na **Alura** para expandir meus conhecimentos em desenvolvimento de software, banco de dados e segurança da informação.  
 
-Here are some ideas to get you started:
+## 📌 Sobre mim  
+- Engenharia de Software em formação  
+- Em constante aprendizado na área de tecnologia  
+- Interesse em desenvolvimento de software, banco de dados e segurança  
+- Objetivo: evoluir como desenvolvedora e construir projetos que gerem impacto  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou aprendendo  
+- C  
+- Python  
+- Git e GitHub  
+
+## 🌱 Em andamento  
+- Exercícios e pequenos projetos para praticar lógica e programação  
+- Estudos na plataforma Alura  
+
+## 📫 Como me encontrar  
+[LinkedIn](#) | [E-mail](#)  
