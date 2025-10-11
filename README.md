@@ -10,7 +10,8 @@ Atualmente estudo **C e Python**, e faço cursos na **Alura** para expandir meus
 - Objetivo: evoluir como desenvolvedora e construir projetos que gerem impacto  
 
 ## 🛠️ Tecnologias que estou aprendendo  
-- C  
+- C
+- C++
 - Python  
 - Git e GitHub  
 
