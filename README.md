@@ -12,13 +12,10 @@ Atualmente estudo **C e Python**, e faço cursos na **Alura** para expandir meus
 ## 🛠️ Tecnologias que estou aprendendo  
 - C
 - C++
+- Java
 - Python  
-- Git e GitHub  
-
-## 🌱 Em andamento  
-- Exercícios e pequenos projetos para praticar lógica e programação  
-- Estudos na plataforma Alura  
-
+- Git e GitHub
+  
 ## 📫 Como me encontrar  
 **E-mail:** contato.arielletavares@gmail.com  
 - **LinkedIn:** [Arielle Tavares](https://www.linkedin.com/in/arielletavaresengdesoftware?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
