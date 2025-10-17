@@ -1,12 +1,9 @@
 # Olá, eu sou a Arielle Tavares 👋  
 
-Sou estudante de **Engenharia de Software** e estou no início da minha jornada na programação.  
-Atualmente estudo **C e Python**, e faço cursos na **Alura** para expandir meus conhecimentos em desenvolvimento de software, banco de dados e segurança da informação.  
-
 ## 📌 Sobre mim  
 - Engenharia de Software em formação  
-- Em constante aprendizado na área de tecnologia  
-- Interesse em desenvolvimento de software, banco de dados e segurança  
+- Em constante aprendizado na área de tecnologia na Alura
+- Interesse em desenvolvimento de software e segurança  
 - Objetivo: evoluir como desenvolvedora e construir projetos que gerem impacto  
 
 ## 🛠️ Tecnologias que estou aprendendo  
