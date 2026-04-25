@@ -10,6 +10,7 @@
 - C
 - C++
 - Java
+- JavaScript
 - Python  
 - Git e GitHub
   
