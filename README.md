@@ -37,7 +37,7 @@ Aplicação em HTML, CSS e JavaScript com geração de número aleatório, dicas
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArielleTav&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielleTav&layout=compact&theme=tokyonight"/>
 </p>
 
 
