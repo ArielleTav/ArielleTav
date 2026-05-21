@@ -7,6 +7,7 @@
 💻 Foco em Quality Assurance (QA), suporte técnico e desenvolvimento backend
 
 ⚙️ Experiência prática com testes de software, manutenção de sistemas e desenvolvimento de aplicações
+
 ---
 
 ## 🚀 Projetos em destaque
