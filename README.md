@@ -3,7 +3,9 @@
 ## 💡 Sobre mim
 
 🎓 Estudante de Engenharia de Software
+
 💻 Foco em Quality Assurance (QA), suporte técnico e desenvolvimento backend
+
 ⚙️ Experiência prática com testes de software, manutenção de sistemas e desenvolvimento de aplicações
 ---
 
@@ -45,10 +47,7 @@ Aplicação em HTML, CSS e JavaScript com geração de número aleatório, dicas
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArielleTav&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielleTav&layout=compact&theme=tokyonight"/>
-</p>
+<p align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArielleTav&show_icons=true&theme=tokyonight"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielleTav&layout=compact&theme=tokyonight"/> </p>
 
 
 ## 📫 Contato
