@@ -48,8 +48,10 @@ Aplicação em HTML, CSS e JavaScript com geração de número aleatório, dicas
 
 ## 📊 Estatísticas
 
-<p align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArielleTav&show_icons=true&theme=tokyonight"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielleTav&layout=compact&theme=tokyonight"/> </p>
-
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArielleTav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielleTav&layout=compact&theme=tokyonight"/>
+</p>
 
 ## 📫 Contato
 
