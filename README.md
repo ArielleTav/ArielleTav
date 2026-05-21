@@ -3,13 +3,23 @@
 ## 💡 Sobre mim
 
 🎓 Estudante de Engenharia de Software
-📚 Em constante aprendizado na área de tecnologia (Alura)
-💻 Interesse em desenvolvimento de software e QA
-🚀 Buscando oportunidades para aplicar e evoluir minhas habilidades na prática
-
+💻 Foco em Quality Assurance (QA), suporte técnico e desenvolvimento backend
+⚙️ Experiência prática com testes de software, manutenção de sistemas e desenvolvimento de aplicações
 ---
 
 ## 🚀 Projetos em destaque
+
+🔹 Sistema de Atendimento Inteligente para WhatsApp (Projeto Principal)
+
+Sistema de automação de atendimento com integração de IA generativa (Node.js + OpenRouter), utilizado em ambiente real de assistência técnica.
+
+Principais funcionalidades:
+- Atendimento automático via WhatsApp
+- Fluxo híbrido (IA + humano)
+- Controle de contexto de usuários
+- Integração com APIs externas
+- Arquitetura modular para múltiplos negócios
+🛠 Tecnologias: Node.js, JavaScript, WhatsApp Web.js, OpenRouter API, Git
 
 🔹 **Sistema de Avaliação de Artigos Acadêmicos**
 Desenvolvido em C com foco em Estrutura de Dados, permitindo cadastro, organização e avaliação de artigos.
